@@ -1,0 +1,16 @@
+#ifndef LANGUAGETYPES_H
+#define LANGUAGETYPES_H
+
+//language type enum
+//need to represent this better
+//need data for filenames and website url
+enum LanguageType {
+    NOTSET = 0,
+    CPP,
+    C,
+    PYTHON,
+    JAVASCRIPT,
+    JAVA,
+};
+
+#endif // LANGUAGETYPES_H

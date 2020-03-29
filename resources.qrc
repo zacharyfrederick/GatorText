@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>paste.png</file>
+        <file>save.png</file>
+        <file>saveas.png</file>
+        <file>style.qss</file>
+        <file>wordlist.txt</file>
+        <file>c.txt</file>
+        <file>cpp.txt</file>
+        <file>java.txt</file>
+        <file>javascript.txt</file>
+        <file>python.txt</file>
+        <file>dark.txt</file>
+        <file>DarkFusion.txt</file>
+        <file>darkorange.txt</file>
+    </qresource>
+</RCC>
